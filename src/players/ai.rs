@@ -1,6 +1,6 @@
 use rand::seq::SliceRandom;
 
-use crate::game::{Game, Mark, GameState};
+use crate::game::{Game, GameState};
 
 
 pub struct AI;
